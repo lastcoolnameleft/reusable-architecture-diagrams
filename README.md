@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: default
+theme: gaia
 _class: invert
 paginate: true
 style: |
@@ -13,14 +13,13 @@ style: |
     }
 ---
 <!--
-_backgroundColor: black
-_class: lead
+_class: lead invert
 -->
 
 # **Reusable architecture diagrams**
 ## with Draw.io + VSCode + GitHub
 
-## Presented by: Tommy Falgout and lots of hands-on experience
+### Presented by: Tommy Falgout
 
 ---
 
