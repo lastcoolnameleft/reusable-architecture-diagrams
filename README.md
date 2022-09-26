@@ -57,7 +57,7 @@ _class: lead invert
 - Import Shapes (Azure, AWS, UML)
 - Can use: Browser, Native App, VSCode
 
-![bg right 80%](img/drawio-example.png)
+![bg right 80% Draw.io example architecture](img/drawio-example.png)
 
 
 --- 
@@ -68,7 +68,7 @@ _class: lead invert
 - Vast plugin ecosystem
     - Including Draw.io
 
-![bg right 90%](img/vscode-drawio.png)
+![bg right 90% VS Code plugin for Draw.io](img/vscode-drawio.png)
 
 ---
 
@@ -78,7 +78,7 @@ _class: lead invert
 - Works best for text, NOT binary
 - Uses Markdown for documentation
 
-![bg left 60%](https://icongr.am/octicons/mark-github.svg)
+![bg left 60% GitHub Logo](https://icongr.am/octicons/mark-github.svg)
 
 ---
 
@@ -88,7 +88,7 @@ _class: lead invert
 - Use VSCode to create documentation
 - Use Github to store and version control
 
-![bg right 60%](img/captain-planet.jpg)
+![bg right 60% Captain Planet](img/captain-planet.jpg)
 
 --- 
 
@@ -113,14 +113,14 @@ _class: lead
 
 # VSCode + Draw.io
 
-![h:500px](img/case-study-vscode.png)
+![h:500px Example of VS Code with Draw.io](img/case-study-vscode.png)
 
 
 ---
 
 # GitHub + Markdown
 
-![h:500px](img/gh-readme.png)
+![h:500px Example of GitHub page with text and image from Draw.io](img/gh-readme.png)
 
 HINT: Does this look familiar?
 
@@ -130,7 +130,7 @@ HINT: Does this look familiar?
 
 Maximize your keystrokes!
 
-![h:500px](img/blog-devto.png)
+![h:500px Example of blog](img/blog-devto.png)
 
 ---
 
@@ -145,13 +145,13 @@ _class: lead
 
 # Add More Shapes
 
-![bg right 60%](img/drawio-more-shapes.png)
+![bg right 60% Zoomed image of adding more shapes to Draw.io](img/drawio-more-shapes.png)
 
 --- 
 
 # Add Azure Shapes
 
-![bg right 90%](img/drawio-azure-shapes.png)
+![bg right 90% Example of adding Azure Shapes to Draw.io](img/drawio-azure-shapes.png)
 
 Other shapes include:
 - AWS
@@ -207,7 +207,7 @@ _footer: 'Credit: https://www.youtube.com/watch?v=bEzbCP9wtB0'
   - Azure based
 - I'll draw your architecture
  
-![bg right 90%](img/caricature.png)
+![bg right 90% Picture of someone drawing a caricature](img/caricature.png)
 
 ---
 
