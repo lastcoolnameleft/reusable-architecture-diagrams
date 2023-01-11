@@ -17,7 +17,7 @@ _class: lead invert
 -->
 
 # **Reusable architecture diagrams**
-## with Draw.io + VSCode + GitHub
+## with Draw.io + VSCode + GitHub + MARP
 
 ### Presented by: Tommy Falgout
 
@@ -50,13 +50,12 @@ Makes for good connect-glitter to showcase your impact.
 -->
 --- 
 
-# Draw.io 
+# diagrams.net (aka draw.io)
 
 - Open Source Diagram Software
-- Integrates with:
-  - MS Teams, Google Drive, Confluence, GitHub
-- Import Shapes (Azure, AWS, UML)
-- Can use: Browser, Native App, VSCode
+- Integrates with: Teams, G-Drive, Confluence, GitHub
+- Import Shapes: Azure, AWS, UML
+- Suports: Browser, Native App, VSCode
 
 ![bg right 80% Draw.io example architecture](img/drawio-example.png)
 
@@ -85,10 +84,23 @@ Under the hood, draw.io diagrams are XML
 
 ---
 
+# MARP - Markdown Presentation
+
+- Convert Markdown a presentation
+- Use [GitHub action to update GH Pages & PDF](https://github.com/lastcoolnameleft/reusable-architecture-diagrams/blob/main/.github/workflows/marp-to-pages.yml)
+- Example: [This repo!](https://github.com/lastcoolnameleft/reusable-architecture-diagrams)
+
+![bg right 90% VS Code plugin for Draw.io](img/marp-vscode.png)
+
+<!--
+Meta screenshot.  Me editing this presentation
+-->
+---
 # Putting It All Together
 
 - Use Draw.io to create diagrams
 - Use VSCode to create documentation
+- Use Marp to present
 - Use Github to store and version control
 
 ![bg right 60% Captain Planet](img/captain-planet.jpg)
@@ -178,6 +190,18 @@ Other shapes include:
 # Important to know
 
 - Draw.io works in layers
+- Click X on shape to add connectors
+- Double-click on shape to add text
+- Click any blank area to add text
+  - Can add text to connectors
+- Zoom and pan with mouse
+
+## [Quick start guide](https://www.youtube.com/watch?v=Z0D96ZikMkc)
+
+---
+
+# Style Recommendations
+
   - Draw containers from large to small
   - Example:
     - Tenant
@@ -185,7 +209,7 @@ Other shapes include:
     - Vnet
     - Subnet
     - AKS
-- Place icon in top left, inside the container
+- Place icon in top left
 
 ---
 
@@ -208,7 +232,7 @@ _class: lead
 ---
 
 <!-- 
-_footer: 'Credit: https://www.youtube.com/watch?v=bEzbCP9wtB0'
+_footer: 'Credit: [foo](https://www.youtube.com/watch?v=bEzbCP9wtB0)'
 -->
 
 # Volunteers?
