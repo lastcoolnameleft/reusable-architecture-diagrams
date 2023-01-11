@@ -25,12 +25,8 @@ _class: lead invert
 
 # Agenda
 
-- Overview
 - The Gift of Your Keystrokes
 - Technology
-  - Draw.io
-  - VSCode
-  - Github
 - Live Demo
 
 ---
@@ -47,6 +43,11 @@ _class: lead invert
   - If we blog, we can increase reach
 - Focus on ROI of the limited keystrokes
 
+<!--
+525,600 minutes in a year
+effectiveness - aka: impact
+Makes for good connect-glitter to showcase your impact.
+-->
 --- 
 
 # Draw.io 
@@ -59,7 +60,9 @@ _class: lead invert
 
 ![bg right 80% Draw.io example architecture](img/drawio-example.png)
 
-
+<!--
+Under the hood, draw.io diagrams are XML
+-->
 --- 
 
 # VS Code
@@ -132,6 +135,12 @@ Maximize your keystrokes!
 
 ![h:500px Example of blog](img/blog-devto.png)
 
+<!--
+Had ~800 views from this.  WAY more than the 10 people I would have reached if I had just responded.
+YES, took more time.  But if you can do this consistently, it gets easier.
+Builds good muscle.
+-->
+
 ---
 
 <!--
@@ -147,6 +156,10 @@ _class: lead
 
 ![bg right 60% Zoomed image of adding more shapes to Draw.io](img/drawio-more-shapes.png)
 
+<!--
+I assume you know how to write markdown and how to post a blog.
+-->
+
 --- 
 
 # Add Azure Shapes
@@ -154,9 +167,7 @@ _class: lead
 ![bg right 90% Example of adding Azure Shapes to Draw.io](img/drawio-azure-shapes.png)
 
 Other shapes include:
-- AWS
-- GCP
-- IBM
+- Other Clouds (AWS/GCP/IBM)
 - VMWare
 - Office
 - Network
@@ -240,6 +251,6 @@ h5 {
 </style>
 
 # Thanks for attending!
-## Please fill out a session evaluation
+## Let me know how this impacts you!
 ### Tommy Falgout
 #### Cloud Solution Architect
