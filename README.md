@@ -23,6 +23,12 @@ _class: lead invert
 
 ---
 
+# My Goal
+
+By end of this session you will, _not just learn about_, but be interested in using these processes and tools to help you make a bigger impact in your career.
+
+---
+
 # Agenda
 
 - The Gift of Your Keystrokes
@@ -40,11 +46,12 @@ _class: lead invert
 
 - Effectiveness vs. Efficiency
   - When we reply via email, we reach 1-10 people
-  - If we blog, we can increase reach
+  - If we expand reach (e.g. blog), we can increase impact
 - Focus on ROI of the limited keystrokes
 
 <!--
-525,600 minutes in a year
+We've heard there are 525,600 minutes in a year.
+Convert that time to keystrokes, what are you doing with them?
 effectiveness - aka: impact
 Makes for good connect-glitter to showcase your impact.
 -->
@@ -116,7 +123,7 @@ _class: lead
 
 ---
 
-# Requirements
+# Partner Requirements
 
 - SaaS Offer
 - AKS
@@ -202,7 +209,7 @@ Other shapes include:
 
 # Style Recommendations
 
-  - Draw containers from large to small
+  - Draw containers from large (back) to small (front)
   - Example:
     - Tenant
     - Subscription
